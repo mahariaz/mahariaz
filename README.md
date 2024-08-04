@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/maha-riaz-75694919b/**
 
-- ⚡ Fun fact **I think I am a nerd**
+- ⚡ Fun fact **I love to do a crash diet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
