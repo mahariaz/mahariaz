@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Maha</h1>
 <h3 align="center">I can learn and do whatever I want to</h3>
 
-- 🌱 I’m currently learning **Web technologies majorly MERN Stack**
+- 🌱 I’m currently learning **How Agentic AI can aid existing Software Systems**
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
